@@ -20,9 +20,9 @@ High school junior in Silicon Valley. I research small language models, build AI
 - **Stanford Research Lab:** Built an AI testing suite for Kai, an AI English tutor for students with disabilities; A/B tested models and prompts to achieve a 60%+ reduction in response latency
 - **The Washington Post:** [Featured](https://www.washingtonpost.com/technology/2025/10/05/school-ai-homework-teens/) for co-leading a student-driven AI philosophy adopted by a school district
 - **Google HQ:** Presented on a panel to Google engineers and designers about AI and education
-- **ASU+GSV Summit & FETC Conference:** Presented on AI innovation and ethics at two major edtech conferences; 1 of 3 high school students invited to the Walton Family-organized ASU+GSV student breakfast
+- **[ASU+GSV Summit](https://www.asugsvsummit.com/) & [FETC Conference](https://www.fetc.org/):** Presented on AI innovation and ethics at two major edtech conferences; 1 of 3 high school students invited to the Walton Family-organized ASU+GSV student breakfast
 - **Aisera AI Internship:** Built MCP servers and an open-source MCP bridge for AI agents with the Head of AI and CTO; won 2nd place in company hackathon competing against 30+ teams of engineers
-- **EngageAI Institute & Vanderbilt:** Developed AI Bill of Rights card games (educator and student editions) with Dr. Sarah Burriss
+- **[EngageAI Institute](https://engageai.org/) & Vanderbilt:** Developed AI Bill of Rights card games (educator and student editions) with Dr. Sarah Burriss
 - **FRC Robotics World Championship:** Software lead for a rookie team; won the Highest Rookie Team Award in the division at the 2024 World Championship in Houston
 
 ### Tech Stack
@@ -38,7 +38,7 @@ Co-founded Tech Spark, a 501(c)(3) nonprofit, in 2020; five years of teaching ro
 
 ### Education
 
-Dual-enrolled at Foothill College pursuing a CS associate degree alongside Mountain View High School. Summer programs at Brown University (cryptography), Dartmouth (cybersecurity), and LaunchX (entrepreneurship).
+Dual-enrolled at [Foothill College](https://foothill.edu/) pursuing a CS associate degree alongside [Mountain View High School](https://mvhs.mvla.net/). Summer programs at Brown University (cryptography), Dartmouth (cybersecurity), and LaunchX (entrepreneurship).
 
 ---
 
