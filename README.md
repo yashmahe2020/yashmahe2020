@@ -2,7 +2,7 @@
 
 Building AI agents, education tools, and policy frameworks.
 
-High school junior in Silicon Valley. I research small language models, build AI-powered tools for educators and students, and have filed two US patents on AI agent architecture.
+High school senior in Silicon Valley. I research small language models, build AI-powered tools for educators and students, and have filed two US patents on AI agent architecture.
 
 [Website](https://www.yash-maheshwari.com) | [LinkedIn](https://www.linkedin.com/in/yashmaheshwari2009)
 
