@@ -1,45 +1,35 @@
 # Yash Maheshwari
 
-Building AI agents, education tools, and policy frameworks.
+I study small language models, and especially what they can learn when data, memory and compute are scarce. I'm a research intern at Stanford's [Shah Lab](https://shahlab.stanford.edu/) (Stanford Medicine) and Lemons Lab (Graduate School of Education), and a student at Mountain View High School (Class of 2027).
 
-High school senior in Silicon Valley. I research small language models, build AI-powered tools for educators and students, and have filed two US patents on AI agent architecture.
+[Publications](https://research.yash-maheshwari.com/) · [Website](https://www.yash-maheshwari.com/) · [CV](https://www.yash-maheshwari.com/resume/Yash_Maheshwari_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/yashmaheshwari2009/)
 
-[Website](https://www.yash-maheshwari.com) | [LinkedIn](https://www.linkedin.com/in/yashmaheshwari2009)
+## Publications
 
----
+All accepted. Abstracts, figures and PDFs are on [research.yash-maheshwari.com](https://research.yash-maheshwari.com/).
 
-### Currently
+- **Halved CLM Exposure Mitigates Late-Training Degradation in Small Recurrent Language Models**<br>
+  Yash Maheshwari. *BabyLM Workshop at EMNLP 2026* (archival).
+  [Paper page](https://research.yash-maheshwari.com/papers/babylm-2026) · [PDF](https://research.yash-maheshwari.com/assets/papers/maheshwari-2026-halved-clm-exposure-babylm.pdf) · [OpenReview](https://openreview.net/forum?id=Dt0kB5nTNu)
+- **Below One Bit: Training Route and Budget Shape Robustness Under On-Device Storage Constraints**<br>
+  Yash Maheshwari. *NeurIPS 2026 Workshop on On-Device Intelligence (ODI)*, poster.
+  [Paper page](https://research.yash-maheshwari.com/papers/odi-2026) · [OpenReview](https://openreview.net/forum?id=uGyEuoSW6N)
+- **Training and comparison of fine-tuned small language models as math tutoring assistants**<br>
+  Yash Maheshwari, Rinky Gupta. *Journal of Emerging Investigators*, in press.
+  [Paper page](https://research.yash-maheshwari.com/papers/jei-2026) · [Code](https://github.com/yashmahe2020/math-tutor-research)
 
-- Extending [Kai](https://ed.stanford.edu/faculty/cjlemons), an AI English tutor for students with disabilities, at Stanford's education lab with Prof. Chris Lemons
-- Leading software projects and AI policy initiatives on the Executive Board of the [MVHS Tech Internship](https://mvhs-tech.vercel.app/)
-- Conducting independent research on optimizing small language models for math tutoring. Paper published in the [Journal of Emerging Investigators](https://emerginginvestigators.org/)
+## Current work
 
-### Highlights
+- **Shah Lab, Stanford Medicine** (with Prof. Nigam Shah). I maintain HealthAdminBench and am building its second version, a benchmark of AI agents doing healthcare administrative work such as prior authorizations and denial appeals inside a realistic Epic EHR.
+- **Lemons Lab, Stanford Graduate School of Education** (with [Prof. Chris Lemons](https://ed.stanford.edu/faculty/cjlemons)). I built the evaluation suite for Kai, an AI reading tutor used by 1,200+ students in 10+ districts, and cut its response latency by 75%. I also work on PAWS, a handwriting tutor for kindergarteners on iPad.
+- **Independent research** on pretraining under tight data budgets and sub-1-bit compression. I train these models from scratch on a MacBook with [MLX](https://github.com/ml-explore/mlx).
 
-- **2 US Patents Filed:** *Hierarchical Aggregation Tree for MCP Server Selection and Execution* (nonprovisional) and *Predictive Compliance for AI Agents* (provisional), both filed in 2025
-- **Stanford Research Lab:** Built an AI testing suite for Kai, an AI English tutor for students with disabilities; A/B tested models and prompts to achieve a 60%+ reduction in response latency
-- **The Washington Post:** [Featured](https://www.washingtonpost.com/technology/2025/10/05/school-ai-homework-teens/) for co-leading a student-driven AI philosophy adopted by a school district
-- **Google HQ:** Presented on a panel to Google engineers and designers about AI and education
-- **[ASU+GSV Summit](https://www.asugsvsummit.com/) & [FETC Conference](https://www.fetc.org/):** Presented on AI innovation and ethics at two major edtech conferences; 1 of 3 high school students invited to the Walton Family-organized ASU+GSV student breakfast
-- **Aisera AI Internship:** Built MCP servers and an open-source MCP bridge for AI agents with the Head of AI and CTO; won 2nd place in company hackathon competing against 30+ teams of engineers
-- **[EngageAI Institute](https://engageai.org/) & Vanderbilt:** Developed AI Bill of Rights card games (educator and student editions) with Dr. Sarah Burriss
-- **FRC Robotics World Championship:** Software lead for a rookie team; won the Highest Rookie Team Award in the division at the 2024 World Championship in Houston
+## Also
 
-### Tech Stack
+- **Patents (filed 2025):** *Hierarchical Aggregation Tree for MCP Server Selection and Execution* (non-provisional, sole inventor) and *Predictive Compliance for AI Agents* (provisional, co-inventor with Aisera).
+- **Industry:** AI Engineering Intern at Aisera (2025), where I built MCP servers for Salesforce, Clari and Slack and an open-source MCP bridge, and placed 2nd of 30 teams in the company hackathon. AI Research Contractor at Kinetic Systems (2026).
+- **Speaking:** keynote at FETC 2027, two keynote panels at the Common Sense Media Summit 2026, and talks at FETC 2026, the ASU+GSV Summit 2025 and Google.
+- **Press:** featured in [The Washington Post](https://www.washingtonpost.com/technology/2025/10/05/school-ai-homework-teens/) (Oct 2025) for helping write my school district's AI policy.
+- **Community:** co-founded Tech Spark, a 501(c)(3) that has run five summers of K-8 robotics and coding; software lead for FRC 9584, which won the Highest Rookie Team Award in its division at the 2024 World Championship.
 
-- **Languages:** Python, TypeScript, JavaScript, Swift, HTML/CSS, Java
-- **Frameworks:** Next.js, React, Node.js, Tailwind CSS
-- **AI/ML:** Fine-tuning Llama 3.2, OpenAI API, Gemini API, RAG architectures, MCP orchestration, vector databases
-- **Tools:** Git, Vercel, Claude Code, Antigravity
-
-### Beyond Code
-
-Co-founded Tech Spark, a 501(c)(3) nonprofit, in 2020; five years of teaching robotics, Python, and web development to dozens of elementary and middle school students. Founded and mentor a middle school FTC robotics team (Judges' Choice Award, 2024-25). Published 3 apps on the iOS App Store. Launched a card game on Amazon and Kickstarter, selling 500+ copies. Won Honorable Mention from Congresswoman Anna Eshoo in the Congressional App Challenge. Competitive chess player (1900 Elo on chess.com). Cross-country athlete and pianist.
-
-### Education
-
-Dual-enrolled at [Foothill College](https://foothill.edu/) pursuing a CS associate degree alongside [Mountain View High School](https://mvhs.mvla.net/). Summer programs at Brown University (cryptography), Dartmouth (cybersecurity), and LaunchX (entrepreneurship).
-
----
-
-Always happy to talk about AI in education. Reach out via [LinkedIn](https://www.linkedin.com/in/yashmaheshwari2009) or through my [website](https://www.yash-maheshwari.com).
+**Tools I use most:** Python, MLX, Hugging Face (Transformers, TRL), TypeScript and React.
