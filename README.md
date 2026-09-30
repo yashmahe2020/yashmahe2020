@@ -28,7 +28,7 @@ All accepted. Abstracts, figures and PDFs are on [research.yash-maheshwari.com](
 
 - **Patents (filed 2025):** *Hierarchical Aggregation Tree for MCP Server Selection and Execution* (non-provisional, sole inventor) and *Predictive Compliance for AI Agents* (provisional, co-inventor with Aisera).
 - **Industry:** AI Engineering Intern at Aisera (2025), where I built MCP servers for Salesforce, Clari and Slack and an open-source MCP bridge, and placed 2nd of 30 teams in the company hackathon. AI Research Contractor at Kinetic Systems (2026).
-- **Speaking:** keynote at FETC 2027, two keynote panels at the Common Sense Media Summit 2026, and talks at FETC 2026, the ASU+GSV Summit 2025 and Google.
+- **Speaking:** an upcoming keynote at FETC 2027 (January), two keynote panels at the Common Sense Media Summit 2026, and talks at FETC 2026, the ASU+GSV Summit 2025 and Google.
 - **Press:** featured in [The Washington Post](https://www.washingtonpost.com/technology/2025/10/05/school-ai-homework-teens/) (Oct 2025) for helping write my school district's AI policy.
 - **Community:** co-founded Tech Spark, a 501(c)(3) that has run five summers of K-8 robotics and coding; software lead for FRC 9584, which won the Highest Rookie Team Award in its division at the 2024 World Championship.
 
